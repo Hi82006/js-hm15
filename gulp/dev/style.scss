@@ -1,0 +1,19 @@
+.note{
+    border: black solid 2px;
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+.form{
+    align-self: center;
+}
+.list{
+	list-style-type: none;
+}
